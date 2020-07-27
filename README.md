@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.anandmainali.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anand%20Mainali%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/anandmainali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anand%20Mainali-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat-square&logo=stackoverflow"></a>
 <a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
